@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ojong Falon
-- 👀 I’m interested in Software Design and Development for Web, Mobile and Standalone Apps
-- 🌱 I’m currently learning React Js, React Native, Node JS, VB.Net
-- 💞️ I’m looking to collaborate on the Develpoment of Seperate Software Modules
+- 👀 I’m interested in App Design and Development for Web and Mobile.
+- 🌱 I’m currently learning React Js, Next Js, Node JS, Mongo DB.
+- 💞️ I’m looking to collaborate on the Develpoment of Seperate Software Modules.
 - 📫 How to reach me Email: ojongfalon@gmail.com
 
 <!---
